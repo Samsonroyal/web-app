@@ -269,3 +269,135 @@
     transform: rotate(0deg);
   }
 }
+
+.frame {
+  height: 50px;
+  position: relative;
+  width: 1266px;
+}
+
+.frame .logo {
+  height: 28px;
+  left: 50px;
+  position: absolute;
+  top: 11px;
+  width: 71px;
+}
+
+.frame .WYCO-logo-blk {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -8px;
+  width: 113px;
+}
+
+.frame .nav-links {
+  height: 50px;
+  left: 771px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.frame .div-wrapper {
+  height: 22px;
+  left: -172px;
+  position: absolute;
+  top: 14px;
+  width: 76px;
+}
+
+.frame .text-wrapper {
+  color: #7989f2;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.frame .div {
+  height: 22px;
+  left: -64px;
+  position: absolute;
+  top: 14px;
+  width: 105px;
+}
+
+.frame .text-wrapper-2 {
+  color: #6b7280;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.frame .akar-icons-chevron {
+  height: 12px;
+  left: 93px;
+  position: absolute;
+  top: 5px;
+  width: 12px;
+}
+
+.frame .text-wrapper-3 {
+  color: #6b7280;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 22px;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.frame .overlap-group {
+  background-color: #7989f2;
+  border-radius: 10px;
+  height: 50px;
+  left: 260px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.frame .start-free-trial {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 22px;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.frame .text-wrapper-4 {
+  color: #6b7280;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 22px;
+  left: 162px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+
